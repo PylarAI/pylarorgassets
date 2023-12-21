@@ -1,4 +1,5 @@
 # Pylar AI creative ML License
+This does not apply to any content under "corporate" directory and corporate directory itself.
 
 Copyright (C) 2023 Miguel Gargallo
 
